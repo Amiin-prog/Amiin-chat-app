@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Amiin Offline Chat</string>
+    <string name="developer_credit">Developed by Amiin Cabdi</string>
+    <string name="app_description">Amiin Offline Chat is a communication application that allows nearby users to exchange messages without internet access.</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="tab_chats">Chats</string>
+    <string name="tab_discovery">Discovery</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_settings">Settings</string>
+    
+    <!-- User Profile -->
+    <string name="profile_title">Profile</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_nickname">Nickname</string>
+    <string name="profile_bio">Bio / About</string>
+    <string name="profile_save">Save Profile</string>
+    <string name="profile_updated">Profile updated successfully!</string>
+    <string name="avatar_select">Select Avatar</string>
+    
+    <!-- Device Discovery & Connection -->
+    <string name="scanning">Scanning for nearby users...</string>
+    <string name="connect">Connect</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="user_connected">has connected!</string>
+    <string name="user_disconnected">has disconnected.</string>
+    <string name="active_peers">Active Bluetooth / P2P Devices</string>
+    <string name="device_status">Status</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="simulation_mode">Sandbox Simulation Mode</string>
+    <string name="sim_info">Simulating nearby local peer-to-peer users for emulator demo.</string>
+    <string name="connection_quality">Signal Quality</string>
+    
+    <!-- Chat Screen -->
+    <string name="type_placeholder">Type a message...</string>
+    <string name="send">Send</string>
+    <string name="search_placeholder">Search messages...</string>
+    <string name="empty_chat">No messages yet. Send a message to start! (Messages are secure &amp; encrypted offline)</string>
+    
+    <!-- Message Status -->
+    <string name="status_pending">Pending</string>
+    <string name="status_sent">Sent</string>
+    <string name="status_delivered">Delivered</string>
+    <string name="status_read">Read</string>
+    
+    <!-- Attachments & Media -->
+    <string name="attach_image">Send Image</string>
+    <string name="attach_doc">Send Document</string>
+    <string name="voice_msg_hold">Hold to Record</string>
+    <string name="voice_msg_releasing">Processing audio...</string>
+    <string name="voice_message_label">🎤 Voice Message</string>
+    <string name="image_attachment_label">📷 Image Attachment</string>
+    <string name="doc_attachment_label">📄 Document</string>
+    
+    <!-- Contact Actions & Filter -->
+    <string name="block">Block</string>
+    <string name="unblock">Unblock</string>
+    <string name="add_favorite">Favorite</string>
+    <string name="remove_favorite">Remove Favorite</string>
+    <string name="blocked_users">Blocked Users</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Amiin Chat Settings</string>
+    <string name="settings_lang">Preferred Language</string>
+    <string name="settings_theme">Visual Theme</string>
+    <string name="theme_light">Light Theme</string>
+    <string name="theme_dark">Dark Theme</string>
+    <string name="theme_system">System Default</string>
+    <string name="clear_history">Clear All Chat History</string>
+    <string name="clear_history_confirm">Are you sure you want to delete all local database messages? This cannot be undone.</string>
+    <string name="clear_history_done">Chat history cleared.</string>
+    <string name="backup_restore">Chat Backup &amp; Restore</string>
+    <string name="backup_done">Local Backup saved successfully!</string>
+    <string name="restore_done">Chat restored from local backup.</string>
+    <string name="privacy_settings">Privacy &amp; Security</string>
+    <string name="encryption_info">P2P Encryption (AES-128 Enabled)</string>
+    <string name="about_title">About Amiin Offline Chat</string>
+    <string name="about_developer">Developer</string>
+    <string name="about_desc">Amiin Offline Chat provides complete security, server-free offline architecture, and battery-optimized P2P networking protocols.</string>
+    
+    <!-- Misc Errors/Alerts -->
+    <string name="grant_permissions">Please grant Location and Bluetooth/Wi-Fi permissions to scan for nearby devices.</string>
+</resources>

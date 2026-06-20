@@ -1,0 +1,6 @@
+{
+  "name": "Amiin Offline Chat",
+  "description": "A secure offline messaging application that operates without internet access, developed by Amiin Cabdi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

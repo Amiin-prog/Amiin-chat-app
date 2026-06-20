@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Amiin Offline Chat</string>
+    <string name="developer_credit">Waxaa sifeeyay Amiin Cabdi</string>
+    <string name="app_description">Amiin Offline Chat waa app isgaarsiineed oo u oggolaanaya isticmaalayaasha isku dhow inay fariimo is dhaafsadaan iyaga oo aan adeegsan internet.</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="tab_chats">Sheekooyinka</string>
+    <string name="tab_discovery">Helitaanka</string>
+    <string name="tab_favorites">Kuwa la Jecelyahay</string>
+    <string name="tab_settings">Dejinta</string>
+    
+    <!-- User Profile -->
+    <string name="profile_title">Profile-ka</string>
+    <string name="profile_name">Magaca</string>
+    <string name="profile_nickname">Naaneysta</string>
+    <string name="profile_bio">Taariikh Kooban / Bio</string>
+    <string name="profile_save">Kaydi Profile-ka</string>
+    <string name="profile_updated">Profile-ka waa la cusbooneysiiyay si guul leh!</string>
+    <string name="avatar_select">Dooro Avatar-ka</string>
+    
+    <!-- Device Discovery & Connection -->
+    <string name="scanning">Waxaa la raadinayaa isticmaalayaasha ku dhow...</string>
+    <string name="connect">Xiriiri</string>
+    <string name="connecting">Waa la xiriirinayaa...</string>
+    <string name="connected">Waa ku xiranyahay</string>
+    <string name="disconnect">Ka Saar</string>
+    <string name="disconnected">La gooyay</string>
+    <string name="user_connected">waa uu soo xirmay!</string>
+    <string name="user_disconnected">waa uu ka go\'ay.</string>
+    <string name="active_peers">Aaladaha Bluetooth / P2P ee Firfircoon</string>
+    <string name="device_status">Heerka</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="simulation_mode">Habka Tijaabada Sandbox</string>
+    <string name="sim_info">Ku tijaabinta isticmaalayaasha mashiinka emulator-ka maxalliga ah.</string>
+    <string name="connection_quality">Tayada Signal-ka</string>
+    
+    <!-- Chat Screen -->
+    <string name="type_placeholder">Qor fariin...</string>
+    <string name="send">Dir</string>
+    <string name="search_placeholder">Raadi fariimaha...</string>
+    <string name="empty_chat">Fariimo ma jiraan. Dir fariin si aad u bilowdo! (Fariimuhu waa ammaan &amp; qarsoodi offline)</string>
+    
+    <!-- Message Status -->
+    <string name="status_pending">Sugid</string>
+    <string name="status_sent">Loo Diray</string>
+    <string name="status_delivered">La Gaarsiiyay</string>
+    <string name="status_read">La Akhrisay</string>
+    
+    <!-- Attachments & Media -->
+    <string name="attach_image">Dir Sawir</string>
+    <string name="attach_doc">Dir Sanad</string>
+    <string name="voice_msg_hold">Riix si aad u duubto</string>
+    <string name="voice_msg_releasing">Falanqaynta codka...</string>
+    <string name="voice_message_label">🎤 Fariin Cod Ah</string>
+    <string name="image_attachment_label">📷 Delada Sawirka</string>
+    <string name="doc_attachment_label">📄 Sanad</string>
+    
+    <!-- Contact Actions & Filter -->
+    <string name="block">Block gee</string>
+    <string name="unblock">Ka saar Block</string>
+    <string name="add_favorite">Jecelyahay</string>
+    <string name="remove_favorite">Ka saar Jecelyahay</string>
+    <string name="blocked_users">Dadka la Block-gareeyay</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Dejinta Sheekada Amiin</string>
+    <string name="settings_lang">Luuqada la Door biday</string>
+    <string name="settings_theme">Muuqaalka App-ka</string>
+    <string name="theme_light">Muuqaal Iftiin</string>
+    <string name="theme_dark">Muuqaal Madow</string>
+    <string name="theme_system">Habka System-ka</string>
+    <string name="clear_history">Nadiifi Dhamaan Sheekooyinka</string>
+    <string name="clear_history_confirm">Ma hubtaa inaad rabto inaad tirtirto dhammaan fariimaha kaydka maxalliga ah? Tani dib looma soo celin karo.</string>
+    <string name="clear_history_done">Taariikhda sheekada waa la nadiifiyay.</string>
+    <string name="backup_restore">Kaydinta &amp; Soo-celinta Sheekooyinka</string>
+    <string name="backup_done">Kaydka maxalliga ah waa la xajiyay si guul leh!</string>
+    <string name="restore_done">Sheekooyinkii waa la soo celiyay.</string>
+    <string name="privacy_settings">Asturnaanta &amp; Amniga</string>
+    <string name="encryption_info">Tireynta P2P (AES-128 waa firfircoon tahay)</string>
+    <string name="about_title">Ku Saabsan Amiin Offline Chat</string>
+    <string name="about_developer">Kansade</string>
+    <string name="about_desc">Amiin Offline Chat wuxuu bixiyaa amni dhammaystiran, qaab-dhismeedka bilaa server ah, iyo isku-xirka P2P oo loogu talagalay badbaadinta batteriga.</string>
+    
+    <!-- Misc Errors/Alerts -->
+    <string name="grant_permissions">Fadlan u oggolow Location iyo Bluetooth/Wi-Fi si aad u baadho aaladaha u dhow.</string>
+</resources>
